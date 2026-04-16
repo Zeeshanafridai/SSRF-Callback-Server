@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║         SSRF CALLBACK SERVER  —  by Z33                      ║
+║         SSRF CALLBACK SERVER  —  by 0xZ33                    ║
 ║      Burp Collaborator Alternative — Self-Hosted             ║
-║      github.com/yourhandle/ssrf-callback-server              ║
+║      github.com/Zeeshanafridai/ssrf-callback-server          ║
 ╚══════════════════════════════════════════════════════════════╝
 
 Two modes:
