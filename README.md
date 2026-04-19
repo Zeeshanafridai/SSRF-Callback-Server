@@ -180,22 +180,6 @@ Access at `http://localhost:8080` (or your VPS IP).
 - Export all interactions as JSON
 - One-click payload generator
 
----
-
-## GitHub Info
-
-**Description:**
-```
-Self-hosted SSRF/OOB callback server — DNS+HTTP+HTTPS+SMTP listeners, live dashboard, cloud metadata detection, active probe mode
-```
-
-**Topics:**
-```
-ssrf, out-of-band, oob, blind-ssrf, dns-callback, bug-bounty,
-penetration-testing, python, offensive-security, cloud-security
-```
-
----
 
 ## License
 
